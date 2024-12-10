@@ -1,0 +1,12 @@
+{
+	"compilerOptions": {
+		"outDir": "./bundles",
+		"module": "ESNext",
+		"target": "ES2021",
+		"moduleResolution": "node",
+		"sourceMap": true,
+		"esModuleInterop": true,
+		"strict": true,
+	},
+	"include": ["./lib/**/*.ts"]
+}
